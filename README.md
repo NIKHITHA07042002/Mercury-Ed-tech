@@ -110,3 +110,7 @@ Description Here I am attaching the final working website's screenshot for the r
 # Final Project Statement:
 "In conclusion, Ed Tech Platform has proven to be a transformative force in the realm of education, seamlessly integrating technology to enhance learning experiences. Its user-friendly interface, robust features, and adaptive learning tools have empowered both educators and students alike.
 
+This is all about my project
+
+Thanking you
+
