@@ -15,7 +15,7 @@ Prashanth :Content Collection
 is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/
 2.	Demo Video URL: https:https://youtube.com/watch?v=u1a2YDKggIw&feature=shared
-3.	Github Repository URL:https://github.com/NIKHITHA07042002/NIKHITHA07042002?tab=readme-ov-file
+3.	Github Repository url:https://github.com/NIKHITHA07042002/Mercury-Ed-tech
 # Azure Services Used
 1.	Azure Storage Service
 2.	Azure Blob Service
