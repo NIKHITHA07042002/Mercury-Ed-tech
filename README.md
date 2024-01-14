@@ -1,4 +1,4 @@
-[# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
 # Roles and Responsibilities of our team members:
 
